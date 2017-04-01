@@ -1,0 +1,12 @@
+target/
+target-eclipse/
+bin/
+.settings/
+.project
+.classpath
+.iml
+.ipr
+.idea/
+grails-app/grails-app.iml
+src/templates/templates.iml
+
